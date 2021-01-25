@@ -27,7 +27,7 @@ env = gym.make("Maze-Obstacles-Dist-v0", grid_size=4, n_obstacles=1, distance_st
 - [Setup](#setup)
 - [Training](#train)
 - [Run](#run)
-- [Curriculum] (#curriculum)
+- [Curriculum](#Curriculum)
 
 
 ## Setup
