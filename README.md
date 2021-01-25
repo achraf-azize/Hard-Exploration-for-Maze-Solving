@@ -15,7 +15,7 @@ env = gym.make("Maze-Obstacles-Dist-v0", grid_size=4, n_obstacles=1, distance_st
 
 
 
-![](images/overview.png)
+![](images/curu2.png)
 
 - [Project Page](https://www.di.ens.fr/willow/research/nmp_repr/)
 - [Paper](https://arxiv.org/abs/2008.11174)
